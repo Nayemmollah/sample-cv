@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    
+<body style="background-color: rgb(142, 177, 175);">
+    <div>
+        <img src="C:\Users\pathDesktop\Lab_0\pic.jpg" alt="Nayem mollah" img align ="right" style="width:110px;height: 170px">
+    </div>
+<div id="header">
+    <div class="n">
+    
+<p3 id=" your name"><h1>vb name<h1></p>
+</div>
+<p id=" address ">address</p>
+<p id=" TEL">01915800083</p>
+<div class="m">
+     <h3>Career Objective </h3>
+
+     <hr> </hr> 
+            
+            
+                <li>Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings.
+                    To get an opportunity where I can make the best of my potential and contribute to the organization's growth.
+                    Seeking a position in a company where I can launch my career and build a valuable skill set.</li>
+                   
+                   </div>
+                   <div class="a">
+                    <h3>Present Status</h3>
+                <hr> </hr> 
+            
+            
+                <li>Currently Studying in Computer science and Engineering Department of East West University.</li>
+                   </div>
+                <h3>Education</h3>
+                <hr> </hr> 
+           
+
+                <table>
+                    <table border="3" style="padding: 5%; color:antiquewhite; background: rgb(216, 129, 243);   text-align: center">
+                    <tr>
+                      <th style="background-color: pink;">exam</th>
+                      <th style="background-color: rgb(230, 20, 55);">Board/University</th>
+                      <th style="background-color: rgb(236, 134, 151);">Year</th>
+                      <th style="background-color: rgb(207, 241, 143);">Name of Institution</th>
+                      <th style="background-color: rgb(159, 104, 231);">Marks</th>
+                     
+                    </tr>
+                    <tr>
+                      <td>   JSC         </td>
+                      <td>    DHAKA       </td>
+                      <td> 2014        </td>
+                      <td>    BHCSC     </td>
+                      <td>     5.00   </td>
+                    </tr>
+    
+                      <tr>
+                        <td>SSC </td>
+                        <td>  DHAKA </td>
+                        <td> 2016</td>
+                        <td> BHCSC </td>
+                        <td> 5.00</td>
+                      </tr>
+                      <tr>
+                        <td>HSC </td>
+                        <td>DHAKA </td>
+                        <td>  2018</td>
+                        <td>  MUBC </td>
+                        <td> 5.00</td>
+                      </tr>
+                      
+
+
+
+
+                  </table>
+                  <div>
+                 <p> <h3>Computer Skills </h3></p>
+                 <hr> </hr> 
+                 <ul  style="list-style-type: square; color:chartreuse;">
+                    <div class="k">
+                 <li> Programming Languages :     C,C++,JAVA,Php,Python. </li>
+                 <li> Web based skills      :    HTML,CSS,JS . </li>
+                 <li> Database skills       :      XAMPP.</li>
+                 <li> Scripting skills      :      JS.</li>
+                 <li> Development Tools     :     GitHub,Netbeans,VScode. </li>
+                 <li> Others                :      microsoft office,powerpoint,Googleform .</li>
+                 </ul>
+                  </div>
+                </div>
+
+                <div>
+
+                    <p> <h3>Professional Experience</h3> </p>
+                        <hr> </hr> 
+                        <p><li>Now i am a student,so i have no professional site. </li></p> 
+                </div>
+                <div>
+
+                    <p> <h3>project </h3> </p>
+                        <hr> </hr> 
+                        <p> </p>
+                        
+                        <ul type="circle">
+                            <li style="color: rgb(63, 59, 1); font-size: large;"><b> Online Assignment Plagiarism Checker Project</b></li>
+                               <p style="color: deeppink;">Plagiarism is defined as to take or theft some work and present it has one's own work.
+                                This grammar and plagiarism checker system is used to analyze the plagiarism data.
+                                Plagiarism affects the education quality of the students and thereby reduce the economic status of the country.</p> 
+                                
+                                <li ><b> Self-Driving Cars Projects</b>
+                                   <p> Self-driving cars, also called autonomous vehicles or driverless cars, are cars and trucks that can understand and navigate the environment with little to no help from a human driver.
+                                    While consumers cannot yet buy a car that fully drives itself (Level 4 or 5 automation), the technology is under development and improving quickly.</li></p>
+
+                                    <li><b> Fire Detection and Localization Using Surveillance Camera</b>
+                                        <p> Fire disasters typically result in lot of loss to life and property. It is therefore imperative that precise, fast, and possibly portable solutions to detect fire be made readily available to the masses at reasonable prices.</li></p>
+
+
+                       
+                           
+
+                </div>
+                <div>
+
+                    <p> <h3>Academic Projects </h3> </p>
+                        <hr> </hr> 
+        
+                            <li s><b> Crime rate Predictions using the K-means algorithm</b></li>
+                            <ul type="circle">
+                            <li><p> K-means algorithm would be at the heart of this project.
+                                It will help us in clustering all the things like co-offenders and also help us in finding the missing link that humans would have commonly missed.</li></p> </ul>
+                               <li><b>Fingerprint voting system</b></li>
+                                <ul type="circle">
+                                <li><p> These major projects for cse have the potential to touch a lot of lives.
+                                    Since all the fingerprints in this world are unique, this project leverages that exact fact. </li></p> </ul>
+                            <p> <h3>Achievements </h3> </p>
+                        <hr> </hr> 
+                        <ul  style="list-style-type: square; bgcolour:green ">
+                        <li> -Got Scholarships.</li>
+                        <li> -Upazila based prices.</li>
+                        </ul>
+                        <p> <h3>Languages </h3> </p>
+                        <hr> </hr> 
+                        <ul  style="list-style-type: square; bgcolour:rgb(230, 236, 230) ">
+                        <li> -Bangla </li>
+
+                        <li> -English</li>
+                        <li> -Arabic</li>
+                        </ul>
+                        
+                </div>
+                <div>
+
+                    <p> <h3>Personal Information </h3> </p>
+                    <hr> </hr> 
+
+                 <ul type="circle" >
+            <li>Full Name            : Nayem Mollah .  </li>
+                <li> Father’s Name  : Abul Kashem Mollah.</p>
+                <li>Mother’s Name   : Nigar Sultana.</li>
+                <li> Date of Birth  :25/11/1999</li>
+                <li>Sex             : Male.</li>
+                <li> Marital Status : Unmarried.</li>
+                <li> Nationality    : Bangladeshi.</li>
+                <li> Religion       : Islam.</li>
+                <li>Blood Group     : O+(positive)</li>
+                <li>Present Address : Merul Baddha,Rampura,Dhaka.</li>
+              <li>Permanent Address : Alalpur,Nawabgonj,Dhaka.</li>
+                 </ul>
+            </div>
+<div>
+ 
+    <p> <h3>Hobbies </h3> </p>
+    <hr> </hr> 
+    <ul style="list-style-type: disc;">
+    <li>  Cricket</li>
+    <li> sleep</li>
+    <li> tour</li>
+    
+ </ul>
+</div>
+<div>
+    
+    <p> <h3>Games </h3> </p>
+    <hr> </hr> 
+    <ul>
+    <li> -PUBG</li>
+    </ul>
+    <p> <h3>References</h3></p>
+    <hr> </hr> 
+    <p> <b> MR.Atik</b></p>
+    <p>Address: Nawabgonj,Dhaka</p>
+    <p>Email: atik123@gmail.com</p>
+    <p>Tel:024545346</p>
+    <p> <b> DR MR.Nafiz Molah</b></p>
+    <p>Address: Alalpur,Nawabgonj,Dhaka</p>
+    <p>Email:nafiz268@gmail.com</p>
+    <p>Tel:12424541</p>
+</div>
+
+               
+     </body>
+ 
+ 
+     <style>
+.n{
+color: aqua;
+
+ 
+}
+#address.n
+{
+
+    color: blue;
+}
+.m{
+    color: rgb(112, 13, 112);
+    background-color: darkcyan;
+    
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    
+}
+.k{
+    border: 23cm;
+    background: greenyellow;
+    color: brown;
+}
+   </style>
+    
